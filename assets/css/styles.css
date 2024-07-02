@@ -39,7 +39,7 @@ html {
       height: 90vh;
       color: var(--White);
       font-weight: var(--Weigth1st);
-      background: url("/assets/images/desktop/image-hero.jpg");
+      background: url("../images/desktop/image-hero.jpg");
       background-size: cover;
       justify-content: center;
       &::after {
@@ -365,7 +365,7 @@ html {
       .hero {
         margin: 0 !important;
         padding: 0 !important;
-        background: url("/assets/images/mobile/image-hero.jpg") !important;
+        background: url("../images/mobile/image-hero.jpg") !important;
         background-size: cover !important;
         height: fit-content !important;
         padding-bottom: 4rem !important;
